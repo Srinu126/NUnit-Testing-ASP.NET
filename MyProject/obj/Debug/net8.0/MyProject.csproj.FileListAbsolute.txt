@@ -1,0 +1,14 @@
+C:\Users\srinu\PROG8146-Software DT\Nunit_testing\MyProject\bin\Debug\net8.0\MyProject.exe
+C:\Users\srinu\PROG8146-Software DT\Nunit_testing\MyProject\bin\Debug\net8.0\MyProject.deps.json
+C:\Users\srinu\PROG8146-Software DT\Nunit_testing\MyProject\bin\Debug\net8.0\MyProject.runtimeconfig.json
+C:\Users\srinu\PROG8146-Software DT\Nunit_testing\MyProject\bin\Debug\net8.0\MyProject.dll
+C:\Users\srinu\PROG8146-Software DT\Nunit_testing\MyProject\bin\Debug\net8.0\MyProject.pdb
+C:\Users\srinu\PROG8146-Software DT\Nunit_testing\MyProject\obj\Debug\net8.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srinu\PROG8146-Software DT\Nunit_testing\MyProject\obj\Debug\net8.0\MyProject.AssemblyInfoInputs.cache
+C:\Users\srinu\PROG8146-Software DT\Nunit_testing\MyProject\obj\Debug\net8.0\MyProject.AssemblyInfo.cs
+C:\Users\srinu\PROG8146-Software DT\Nunit_testing\MyProject\obj\Debug\net8.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\srinu\PROG8146-Software DT\Nunit_testing\MyProject\obj\Debug\net8.0\MyProject.dll
+C:\Users\srinu\PROG8146-Software DT\Nunit_testing\MyProject\obj\Debug\net8.0\refint\MyProject.dll
+C:\Users\srinu\PROG8146-Software DT\Nunit_testing\MyProject\obj\Debug\net8.0\MyProject.pdb
+C:\Users\srinu\PROG8146-Software DT\Nunit_testing\MyProject\obj\Debug\net8.0\MyProject.genruntimeconfig.cache
+C:\Users\srinu\PROG8146-Software DT\Nunit_testing\MyProject\obj\Debug\net8.0\ref\MyProject.dll

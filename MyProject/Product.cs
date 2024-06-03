@@ -1,11 +1,11 @@
 public class Product {
-    private int ProductID { get; set; }
+    public int ProductID { get; set; }
 
-    private string ProductName { get; set; }
+    public string ProductName { get; set; }
 
-    private int Price { get; set; }
+    public int Price { get; set; }
 
-    private int Stock { get; set; }
+    public int Stock { get; set; }
 
     public Product(int productID, string productName, int price, int stock){
         ProductID = productID;
@@ -16,11 +16,29 @@ public class Product {
 
     public void IncreaseStock(int quantity)
     {
-            Stock += quantity;
+        if(quantity<0){
+            return;
+        }
+        if(Stock+quantity>600000){
+                Stock = 600000;
+        } else {
+                Stock += quantity;
+
+        }
+        
+            
     }
 
     public void DecreaseStock(int quantity)
     {
-        Stock -= quantity;
+        if(quantity<0){
+            return;
+        }
+        if(Stock-quantity<6){
+                Stock = 6;
+            } else{
+                Stock -= quantity;
+            }
+        
     }
 }
